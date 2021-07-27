@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    font-family: Roboto;
+    margin:1px;
+}
+.rahul-summary{
+    background-color: #fb4e71;
+    color: #ffffff;
+    padding:15px;
+}
+.name-heading{
+    font-size: 25px;
+    font-weight: bold;
+}
+.intro_para{
+    font-size:15px;
+}
+.image-type-1{
+    height: 160px;
+    width:160px;
+}
+.records{
+    background-color: #e6f6ff;
+    padding:15px;
+}
+.record-card{
+    background-color: #ffffff;
+    border-radius: 10px;
+    
+}
+.heading_bottom_container{
+    font-size:20px;
+    font-weight: bold;
+    color:#323f4b;
+}
+.text_{
+    padding:10px;
+}
+.reacord-heading{
+    color:#323f4b;
+    font-size: 12px;
+}
+.record-para{
+    color:#888888;
+    font-size:12px;
+}
+.video-para{
+    color: #323f4b;
+    font-size:12px;
+}
+.button{
+    height:36px;
+    width:100px;
+    background-color:blue;
+    color:#ffffff;
+    border-radius: 5px;
+}
+.center-align-button{
+    text-align: center;
+}
